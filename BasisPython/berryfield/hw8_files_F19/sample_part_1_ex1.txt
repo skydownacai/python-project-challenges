@@ -1,0 +1,26 @@
+Enter the json file name for the simulation => bears_and_berries_1.json
+bears_and_berries_1.json
+
+Field has 819 berries.
+   0   9   9   9   9   0   9   9   9   0
+   9   9   9   9   9   9   9   9   9   9
+   9   T   9   9   9   9   9   9   9   9
+   9   9   B   9   9   9   9   9   9   9
+   9   9   9   9   9   9   9   0   9   9
+   9   9   9   9   9   9   9   9   9   0
+   9   9   9   9   9   9   9   9   9   9
+   9   9   9   9   9   9   T   9   9   9
+   0   9   9   9   B   B   9   9   9   9
+   0   9   9   9   9   0   9   9   X   0
+
+Active Bears:
+Bear at (9,8) moving NW
+Bear at (3,2) moving NE
+Bear at (8,4) moving E
+Bear at (8,5) moving N
+
+Active Tourists:
+Tourist at (9,8), 0 turns without seeing a bear.
+Tourist at (2,1), 0 turns without seeing a bear.
+Tourist at (7,6), 0 turns without seeing a bear.
+

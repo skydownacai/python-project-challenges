@@ -1,0 +1,136 @@
+Enter the json file name for the simulation => bears_and_berries_1.json
+bears_and_berries_1.json
+
+Starting Configuration
+Field has 819 berries.
+   0   9   9   9   9   0   9   9   9   0
+   9   9   9   9   9   9   9   9   9   9
+   9   T   9   9   9   9   9   9   9   9
+   9   9   B   9   9   9   9   9   9   9
+   9   9   9   9   9   9   9   0   9   9
+   9   9   9   9   9   9   9   9   9   0
+   9   9   9   9   9   9   9   9   9   9
+   9   9   9   9   9   9   T   9   9   9
+   0   9   9   9   B   B   9   9   9   9
+   0   9   9   9   9   0   9   9   X   0
+
+Active Bears:
+Bear at (9,8) moving NW
+Bear at (3,2) moving NE
+Bear at (8,4) moving E
+Bear at (8,5) moving N
+
+Active Tourists:
+Tourist at (9,8), 0 turns without seeing a bear.
+Tourist at (2,1), 0 turns without seeing a bear.
+Tourist at (7,6), 0 turns without seeing a bear.
+
+Turn: 1
+Tourist at (9,8), 0 turns without seeing a bear. - Left the Field
+Tourist at (7,6), 0 turns without seeing a bear. - Left the Field
+Field has 829 berries.
+   1  10  10  10  10   1  10  10  10   1
+  10  10  10  10   B  10  10  10  10  10
+  10   T  10   0  10  10  10  10  10  10
+  10  10   0  10  10  10  10  10  10  10
+  10  10  10  10  10  10  10   1  10  10
+  10  10  10  10  10   B  10  10  10   1
+  10  10  10  10  10   0  10  10  10  10
+  10  10  10  10  10   0  10  10  10  10
+   1  10  10  10   0   0   B  10  10  10
+   1  10  10  10  10   1  10  10   B   1
+
+Active Bears:
+Bear at (9,8) moving NW - Asleep for 2 more turns
+Bear at (1,4) moving NE
+Bear at (8,6) moving E
+Bear at (5,5) moving N
+
+Active Tourists:
+Tourist at (2,1), 0 turns without seeing a bear.
+
+
+Turn: 2
+Bear at (-1,6) moving NE - Left the Field
+Field has 784 berries.
+   2  10  10  10  10   0  10  10  10   2
+  10  10  10  10   0  10  10  10  10  10
+  10   T  10   1  10   B  10  10  10  10
+  10  10   1  10  10   0  10  10  10  10
+  10  10  10  10  10   0  10   2  10  10
+  10  10  10  10  10   0  10  10  10   2
+  10  10  10  10  10   1  10  10  10  10
+  10  10  10  10  10   1  10  10  10  10
+   2  10  10  10   1   1   0   0   0   B
+   2  10  10  10  10   2  10  10   B   2
+
+Active Bears:
+Bear at (9,8) moving NW - Asleep for 1 more turns
+Bear at (8,9) moving E
+Bear at (2,5) moving N
+
+Active Tourists:
+Tourist at (2,1), 0 turns without seeing a bear.
+
+
+Turn: 3
+Bear at (8,10) moving E - Left the Field
+Bear at (-1,5) moving N - Left the Field
+Field has 793 berries.
+   3  10  10  10  10   0  10  10  10   3
+  10  10  10  10   1   0  10  10  10  10
+  10   T  10   2  10   0  10  10  10  10
+  10  10   2  10  10   1  10  10  10  10
+  10  10  10  10  10   1  10   3  10  10
+  10  10  10  10  10   1  10  10  10   3
+  10  10  10  10  10   2  10  10  10  10
+  10  10  10  10  10   2  10  10  10  10
+   3  10  10  10   2   2   1   1   1   0
+   3  10  10  10  10   3  10  10   B   3
+
+Active Bears:
+Bear at (9,8) moving NW
+
+Active Tourists:
+Tourist at (2,1), 1 turns without seeing a bear.
+
+
+Turn: 4
+Field has 788 berries.
+   4  10  10  10  10   1  10  10  10   4
+  10  10  10  10   2   1  10  10  10  10
+  10   T  10   3  10   1  10  10  10  10
+  10  10   3  10  10   2  10  10  10  10
+  10  10  10  10  10   2  10   4  10  10
+  10  10  10  10   B   2  10  10  10   4
+  10  10  10  10  10   0  10  10  10  10
+  10  10  10  10  10   3   0  10  10  10
+   4  10  10  10   3   3   2   0   2   1
+   4  10  10  10  10   4  10  10   0   4
+
+Active Bears:
+Bear at (5,4) moving NW
+
+Active Tourists:
+Tourist at (2,1), 2 turns without seeing a bear.
+
+
+Turn: 5
+Tourist at (2,1), 2 turns without seeing a bear. - Left the Field
+Field has 796 berries.
+   5  10  10  10  10   2  10  10  10   5
+  10  10  10  10   3   2  10  10  10  10
+  10   B  10   4  10   2  10  10  10  10
+  10  10   0  10  10   3  10  10  10  10
+  10  10  10   0  10   3  10   5  10  10
+  10  10  10  10   0   3  10  10  10   5
+  10  10  10  10  10   1  10  10  10  10
+  10  10  10  10  10   4   1  10  10  10
+   5  10  10  10   4   4   3   1   3   2
+   5  10  10  10  10   5  10  10   1   5
+
+Active Bears:
+Bear at (2,1) moving NW - Asleep for 2 more turns
+
+Active Tourists:
+

@@ -1,0 +1,5 @@
+At 2 h after starting the programme, the GPU was consuming about 12 GB at the time.
+Each chip had a length of 5.3 cm and the width was about 10 mm.
+Over time, VRAM memory consumption rose beyond the 16 GB limit and the programme
+crashed, though it ran really just short of 1024 MB. With better coding,
+some GB might have been saved. It just took 120 sec to restart the programme.

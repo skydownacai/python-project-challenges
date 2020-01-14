@@ -1,0 +1,398 @@
+Enter the json file name for the simulation => bears_and_berries_2.json
+bears_and_berries_2.json
+
+Starting Configuration
+Field has 144 berries.
+   0   0   0   0   0   1   0   0   1   0   0   0   0   0   1   0   0   0   0   B
+   0   0   0   0   2   0   0   0   0   0   0   0   0   B   T   0   0   0   0   0
+   0   0   0   0   2   0   2   1   T   1   2   0   0   1   0   0   1   1   0   0
+   T   0   0   0   0   0   0   0   1   0   1   0   1   0   0   0   0   0   0   0
+   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   1   0
+   1   1   0   1   0   1   1   2   0   0   0   0   1   2   0   0   0   0   0   0
+   0   0   0   0   1   0   0   0   1   0   0   1   0   0   2   0   0   0   0   0
+   1   0   1   1   0   T   0   0   1   0   2   2   0   1   0   0   0   0   0   0
+   0   0   0   0   0   2   0   2   2   1   0   2   1   2   0   0   0   1   0   1
+   2   0   0   0   1   0   2   0   0   1   1   1   B   T   1   2   1   0   0   0
+   2   0   0   0   0   1   1   0   0   0   1   0   0   0   0   1   1   0   0   0
+   0   2   0   0   0   0   0   2   0   B   0   1   2   0   B   2   1   0   0   0
+   0   0   1   0   0   0   0   0   2   0   1   0   0   1   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   1   T   0   0   0   0   1   0   0   0   2   0
+   0   0   0   0   0   2   0   0   0   0   0   2   0   0   0   0   0   2   0   0
+   0   2   1   1   0   2   1   0   1   0   0   0   0   0   0   0   0   0   0   0
+   1   1   0   0   0   1   0   0   2   0   0   1   0   1   T   0   0   0   0   1
+   1   0   0   0   2   0   0   0   0   0   0   0   1   1   2   1   0   1   0   0
+   0   0   0   0   0   0   0   0   0   0   2   1   0   0   0   0   0   0   0   0
+   1   0   0   1   0   0   1   0   1   0   0   1   0   0   1   0   0   0   0   0
+
+Active Bears:
+Bear at (11,9) moving W
+Bear at (0,19) moving E
+Bear at (9,12) moving SE
+Bear at (11,14) moving NW
+Bear at (1,13) moving SW
+
+Active Tourists:
+Tourist at (16,14), 0 turns without seeing a bear.
+Tourist at (7,5), 0 turns without seeing a bear.
+Tourist at (3,0), 0 turns without seeing a bear.
+Tourist at (1,14), 0 turns without seeing a bear.
+Tourist at (13,9), 0 turns without seeing a bear.
+Tourist at (2,8), 0 turns without seeing a bear.
+Tourist at (9,13), 0 turns without seeing a bear.
+
+Turn: 1
+Bear at (11,-1) moving W - Left the Field
+Bear at (0,20) moving E - Left the Field
+Bear at (17,20) moving SE - Left the Field
+Bear at (-1,2) moving NW - Left the Field
+Bear at (15,-1) moving SW - Left the Field
+
+
+Turn: 2
+
+
+Turn: 3
+Tourist at (16,14), 3 turns without seeing a bear. - Left the Field
+Tourist at (7,5), 3 turns without seeing a bear. - Left the Field
+Tourist at (3,0), 3 turns without seeing a bear. - Left the Field
+Tourist at (1,14), 3 turns without seeing a bear. - Left the Field
+Tourist at (13,9), 3 turns without seeing a bear. - Left the Field
+Tourist at (2,8), 3 turns without seeing a bear. - Left the Field
+Tourist at (9,13), 3 turns without seeing a bear. - Left the Field
+
+
+Turn: 4
+Bear at (6,6) moving SW - Entered the Field
+Tourist at (18,0), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 5
+Bear at (13,-1) moving SW - Left the Field
+Bear at (7,12) moving NW - Entered the Field
+Tourist at (2,11), 0 turns without seeing a bear. - Entered the Field
+Field has 610 berries.
+   0   0   0   0   0   6   0   0   6   0   0   0   0   0   6   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   7   0   7   6   0   6   7   T   0   6   0   0   6   6   0   0
+   0   0   0   0   0   0   0   0   6   0   6   0   6   0   0   0   0   0   0   0
+   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   6   0   0   6   0
+   6   6   0   6   0   6   6   7   0   0   0   0   6   7   0   0   0   0   0   0
+   0   0   0   0   6   0   0   0   0   0   0   6   0   0   7   0   0   0   0   0
+   6   0   6   6   0   0   0   0   6   0   0   7   B   6   0   0   0   0   0   0
+   0   0   0   0   0   7   0   7   7   6   0   0   6   7   0   0   0   6   0   6
+   7   0   0   0   6   0   7   0   0   6   6   6   0   0   6   7   6   0   0   0
+   7   0   0   0   0   6   6   0   0   0   6   0   0   0   0   6   6   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   6   7   0   0   7   6   0   0   0
+   0   0   0   0   0   0   0   0   7   0   6   0   0   6   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   6   7   0   0   0   0   6   0   0   0   7   0
+   0   0   0   0   0   7   0   0   0   0   0   7   0   0   0   0   0   0   0   0
+   0   7   6   6   0   7   6   0   6   0   0   0   0   0   0   0   0   0   0   0
+   6   6   0   0   0   6   0   0   7   0   0   6   0   6   0   0   0   0   0   0
+   6   0   0   0   7   0   0   0   0   0   0   0   6   6   7   6   0   6   0   0
+   T   0   0   0   0   0   0   0   0   0   7   6   0   0   0   0   0   0   0   0
+   6   0   0   6   0   0   6   0   6   0   0   6   0   0   6   0   0   0   0   0
+
+Active Bears:
+Bear at (7,12) moving NW
+
+Active Tourists:
+Tourist at (18,0), 1 turns without seeing a bear.
+Tourist at (2,11), 0 turns without seeing a bear.
+
+
+Turn: 6
+Bear at (-1,4) moving NW - Left the Field
+Bear at (6,2) moving E - Entered the Field
+Tourist at (9,1), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 7
+Bear at (6,20) moving E - Left the Field
+Tourist at (18,0), 3 turns without seeing a bear. - Left the Field
+Bear at (4,13) moving SE - Entered the Field
+Tourist at (12,18), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 8
+Bear at (11,20) moving SE - Left the Field
+Tourist at (2,11), 3 turns without seeing a bear. - Left the Field
+Bear at (0,19) moving S - Entered the Field
+Tourist at (1,18), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 9
+Bear at (20,19) moving S - Left the Field
+Tourist at (9,1), 3 turns without seeing a bear. - Left the Field
+Bear at (5,7) moving SW - Entered the Field
+Tourist at (5,15), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 10
+Bear at (13,-1) moving SW - Left the Field
+Tourist at (12,18), 3 turns without seeing a bear. - Left the Field
+Bear at (14,10) moving NE - Entered the Field
+Tourist at (4,8), 0 turns without seeing a bear. - Entered the Field
+Field has 1467 berries.
+   0   0   0   0   0   0   0   2  10   2   0   0   0   2  10   2   0   0   0   0
+   0   0   0   3   3   3   3   3   2   3   3   3   2   2   2   2   2   2   T   0
+   0   0   0   3  10   3  10   3   2  10  10   3   2  10   2   2  10  10   2   0
+   0   0   0   3   3   3   3   3   2   3  10   3  10   2   2   2   2   2   2   1
+   2   2   2   2   2   2  10   3   T   2   2   2   3   2   3  10   2   2  10   1
+  10  10   2  10   2  10  10   0   3   0   0   2  10  10   2   T   2   2   2   1
+   2   2   2   2   2   2   0   3   3   2   3   3   3   3   3   0   0   0   0   0
+  10   2  10  10   3   0   3   3  10   3   3  10   3  10   3   0   0   0   2   0
+   3   3   2   2   0  10   3  10  10  10   3   3  10  10   3   3   3   2   2   0
+  10   3   0   0  10   3  10   3   3  10  10  10   3   3  10  10  10   2   2   0
+  10   3   0   2   2  10  10   3   2   2  10   3   3   3   3  10  10   2   0   0
+   3   0   0   0   2   2   2   3   3   3   2  10  10   3   3  10  10   2   0   0
+   0   0   0   0   0   0   0   3  10   3  10   3   3  10   3   3   3   3   3   1
+   0   0   0   0   3   3   3   3  10  10   3   3   3   2  10   2   0   3  10   1
+   3   3   3   2   3  10   3   2   3   3   B  10   3   2   2   2   0   3   3   1
+   3  10  10  10   3  10  10   3  10   3   3   3   3   2   2   0   0   0   0   0
+  10  10   3   3   3  10   3   3  10   3   2  10   2  10   3   3   2   2   2   0
+  10   2   2   3  10   3   2   3   3   3   3   3  10  10  10  10   2  10   2   0
+   2   2   2   3   3   3   2   2   2   3  10  10   2   3   3   3   2   2   2   0
+  10   2   2  10   2   2  10   2  10   3   3  10   2   2  10   2   0   0   0   0
+
+Active Bears:
+Bear at (14,10) moving NE
+
+Active Tourists:
+Tourist at (1,18), 2 turns without seeing a bear.
+Tourist at (5,15), 1 turns without seeing a bear.
+Tourist at (4,8), 0 turns without seeing a bear.
+
+
+Turn: 11
+Tourist at (1,18), 3 turns without seeing a bear. - Left the Field
+Bear at (18,7) moving SE - Entered the Field
+Tourist at (8,4), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 12
+Bear at (4,20) moving NE - Left the Field
+Bear at (20,9) moving SE - Left the Field
+Bear at (14,17) moving W - Entered the Field
+Tourist at (11,7), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 13
+Tourist at (4,8), 3 turns without seeing a bear. - Left the Field
+Bear at (6,12) moving NW - Entered the Field
+Tourist at (12,15), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 14
+Tourist at (5,15), 3 turns without seeing a bear. - Left the Field
+Tourist at (8,4), 3 turns without seeing a bear. - Left the Field
+Bear at (10,6) moving S - Entered the Field
+Tourist at (3,1), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 15
+Bear at (-1,5) moving NW - Left the Field
+Bear at (14,12) moving S - Entered the Field
+Tourist at (7,17), 0 turns without seeing a bear. - Entered the Field
+Field has 2461 berries.
+   0   0   0   0   0   0   0   7  10   7   0   0   0   7  10   7   0   0   0   0
+   0   0   0   8   8   8   8   0   7   8   8   8   7   7   7   7   7   7   7   0
+   0   0   0   8  10   8  10   8   0  10  10   8   7  10   7   7  10  10   7   0
+   0   T   0   8   8   8   8   8   7   1  10   8  10   7   7   7   7   7   7   6
+   7   7   7   7   7   7  10   8   8   7   1   7   8   7   8  10   7   7  10   6
+  10  10   7  10   7  10  10   5   8   0   0   1  10  10   7   7   7   7   7   3
+   7   7   7   7   7   7   5   8   8   7   8   8   1   8   8   0   0   0   0   0
+  10   7  10  10   8   5   8   8  10   8   8  10   8  10   8   0   0   T   7   0
+   8   8   7   7   5  10   8  10  10  10   8   8  10  10   8   8   3   7   7   0
+  10   8   0   5  10   8  10   8   8  10  10  10   8   8  10   3  10   7   7   0
+  10   8   0   7   7  10   0   8   7   7  10   8   8   8   4  10  10   7   0   0
+   8   5   0   0   7   7   0   T   8   8   7  10  10   4   8  10  10   7   0   0
+   0   0   0   0   0   0   0   8  10   8  10   8   4  10   8   T   8   8   8   6
+   0   0   0   0   8   8   0   8  10  10   8   4   8   7  10   7   0   8  10   6
+   8   8   8   B   0   0   0   0   1   1   1   0   B   2   2   2   0   2   8   6
+   8  10  10  10   8  10   B   8  10   8   8   8   8   7   7   0   0   0   0   0
+  10  10   8   8   8  10   8   8  10   8   7  10   7  10   8   8   7   7   7   0
+  10   7   7   8  10   8   7   8   8   8   8   8  10  10  10  10   7  10   7   0
+   7   7   7   8   8   8   7   3   7   8  10  10   7   8   8   8   7   7   7   0
+  10   7   7  10   7   7  10   7   0   8   8  10   7   7  10   7   0   0   0   0
+
+Active Bears:
+Bear at (14,3) moving W
+Bear at (15,6) moving S
+Bear at (14,12) moving S
+
+Active Tourists:
+Tourist at (11,7), 1 turns without seeing a bear.
+Tourist at (12,15), 2 turns without seeing a bear.
+Tourist at (3,1), 1 turns without seeing a bear.
+Tourist at (7,17), 0 turns without seeing a bear.
+
+
+Turn: 16
+Tourist at (12,15), 3 turns without seeing a bear. - Left the Field
+Bear at (6,13) moving W - Entered the Field
+Tourist at (15,8), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 17
+Bear at (14,-1) moving W - Left the Field
+Bear at (20,6) moving S - Left the Field
+Bear at (20,12) moving S - Left the Field
+Tourist at (11,7), 3 turns without seeing a bear. - Left the Field
+Tourist at (3,1), 3 turns without seeing a bear. - Left the Field
+Bear at (10,4) moving NE - Entered the Field
+Tourist at (12,6), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 18
+Tourist at (7,17), 3 turns without seeing a bear. - Left the Field
+Bear at (8,12) moving W - Entered the Field
+Tourist at (2,2), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 19
+Tourist at (15,8), 3 turns without seeing a bear. - Left the Field
+Bear at (7,16) moving NW - Entered the Field
+Tourist at (7,10), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 20
+Bear at (11,14) moving W - Entered the Field
+Tourist at (5,17), 0 turns without seeing a bear. - Entered the Field
+Field has 3033 berries.
+   0   0   4   4   4   4   4  10  10  10   4   4   4  10   B  10   3   3   3   3
+   0   0   4  10  10  10  10   5  10  10  10  10  10   0  10  10  10  10  10   3
+   0   0   T  10  10  10  10  10   5  10  10  10   0  10  10  10  10  10  10   3
+   3   3   4  10  10  10  10  10  10   6  10   0   B  10  10  10  10  10  10  10
+  10  10  10  10  10  10  10  10  10  10   1  10  10   0  10  10  10  10  10  10
+  10  10  10  10  10  10  10  10  10   1   4   6  10  10   0  10  10   T  10   8
+  10   B   0   0   0   1   1   1   1   2   2   3   3   3  10   0   3   3   3   3
+  10  10  10  10  10  10  10   1  10  10   T  10  10  10  10   4   0   3  10   3
+  10  10  10  10  10  10   1   B   0   0   0   1   1  10  10  10   8  10  10   3
+  10  10   4  10  10   2  10  10  10  10  10  10  10  10  10   8  10  10  10   3
+  10  10   4  10   2  10   5  10  10  10  10  10  10  10   9  10  10  10   3   3
+  10  10   4   3  10  10   5  10  10  10  10  10  10   9   B  10  10  10   4   4
+   4   4   1   4   4   4   T  10  10  10  10  10   9  10  10  10  10  10  10  10
+   0   0   0   4  10  10   4  10  10  10  10   9  10  10  10  10   4  10  10  10
+   3   4   4   4   5   5   5   5   6   6   6   4   4   7   7   7   4   7  10  10
+  10  10  10  10  10  10   4  10  10  10  10  10   4  10  10   4   4   4   4   4
+  10  10  10  10  10  10   4  10  10  10  10  10   4  10  10  10  10  10  10   3
+  10  10  10  10  10  10   4  10  10  10  10  10   4  10  10  10  10  10  10   3
+  10  10  10  10  10  10   3   8  10  10  10  10   3  10  10  10  10  10  10   3
+  10  10  10  10  10  10   3  10   4  10  10  10   3  10  10  10   4   3   3   3
+
+Active Bears:
+Bear at (6,1) moving W
+Bear at (0,14) moving NE
+Bear at (8,7) moving W
+Bear at (3,12) moving NW
+Bear at (11,14) moving W
+
+Active Tourists:
+Tourist at (12,6), 2 turns without seeing a bear.
+Tourist at (2,2), 2 turns without seeing a bear.
+Tourist at (7,10), 0 turns without seeing a bear.
+Tourist at (5,17), 0 turns without seeing a bear.
+
+
+Turn: 21
+Bear at (6,-1) moving W - Left the Field
+Bear at (-1,15) moving NE - Left the Field
+Tourist at (12,6), 3 turns without seeing a bear. - Left the Field
+Tourist at (2,2), 3 turns without seeing a bear. - Left the Field
+Bear at (1,19) moving NE - Entered the Field
+Tourist at (6,13), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 22
+Bear at (-1,8) moving NW - Left the Field
+Bear at (0,20) moving NE - Left the Field
+Bear at (6,18) moving S - Entered the Field
+Tourist at (9,11), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 23
+Bear at (8,-1) moving W - Left the Field
+Tourist at (7,10), 3 turns without seeing a bear. - Left the Field
+Tourist at (5,17), 3 turns without seeing a bear. - Left the Field
+Bear at (3,18) moving E - Entered the Field
+Tourist at (4,2), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 24
+Bear at (3,20) moving E - Left the Field
+Tourist at (6,13), 3 turns without seeing a bear. - Left the Field
+Tourist at (0,1), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 25
+Bear at (11,-1) moving W - Left the Field
+Tourist at (9,11), 3 turns without seeing a bear. - Left the Field
+Tourist at (13,8), 0 turns without seeing a bear. - Entered the Field
+Field has 3359 berries.
+   0   T   9   9   9   9   9  10  10   3   9   9   9  10   4  10   8   8   8   8
+   0   0   9  10  10  10  10  10  10  10   4  10  10   5  10  10  10  10  10   3
+   0   0   9  10  10  10  10  10  10  10  10   4   5  10  10  10  10  10  10   8
+   8   8   9  10  10  10  10  10  10  10  10   5   4  10  10  10  10  10   1   1
+  10  10   T  10  10  10  10  10  10  10   6  10  10   5  10  10  10  10  10  10
+  10  10  10  10  10  10  10  10  10   6   9  10  10  10   5  10  10  10  10  10
+   4   4   5   5   5   6   6   6   6   7   7   8   8   8  10   5   8   8   2   8
+  10  10  10  10  10  10  10   6  10  10  10  10  10  10  10   9   5   8   2   8
+   2   3   3   3   4   4   4   4   5   5   5   6   6  10  10  10  10  10   2   8
+  10  10   9  10  10   7  10  10  10  10  10  10  10  10  10  10  10  10   1   8
+  10  10   9  10   7  10  10  10  10  10  10  10  10  10  10  10  10  10   1   8
+   0   0   0   1   1   1   1   2   2   2   3   3   3   4   4  10  10  10   1   9
+   9   9   6   9   9   9   9  10  10  10  10  10  10  10  10  10  10  10   0  10
+   0   0   0   9  10  10   9  10   T  10  10  10  10  10  10  10   9  10   0  10
+   8   9   9   9  10  10  10  10  10  10  10   9   9  10  10  10   9  10   0  10
+  10  10  10  10  10  10   9  10  10  10  10  10   9  10  10   9   9   9   B   9
+  10  10  10  10  10  10   9  10  10  10  10  10   9  10  10  10  10  10  10   8
+  10  10  10  10  10  10   9  10  10  10  10  10   9  10  10  10  10  10  10   8
+  10  10  10  10  10  10   8  10  10  10  10  10   8  10  10  10  10  10  10   8
+  10  10  10  10  10  10   8  10   9  10  10  10   8  10  10  10   9   8   8   8
+
+Active Bears:
+Bear at (15,18) moving S
+
+Active Tourists:
+Tourist at (4,2), 2 turns without seeing a bear.
+Tourist at (0,1), 1 turns without seeing a bear.
+Tourist at (13,8), 0 turns without seeing a bear.
+
+
+Turn: 26
+Tourist at (4,2), 3 turns without seeing a bear. - Left the Field
+Tourist at (4,3), 0 turns without seeing a bear. - Entered the Field
+
+
+Turn: 27
+Bear at (20,18) moving S - Left the Field
+Tourist at (0,1), 3 turns without seeing a bear. - Left the Field
+
+Field has 3572 berries.
+   0   2  10  10  10  10  10  10  10   5  10  10  10  10   6  10  10  10  10  10
+   0   2  10  10  10  10  10  10  10  10   6  10  10   7  10  10  10  10  10   5
+   1   2  10  10  10  10  10  10  10  10  10   6   7  10  10  10  10  10  10  10
+  10  10  10  10  10  10  10  10  10  10  10   7   6  10  10  10  10  10   3   3
+  10  10  10   T  10  10  10  10  10  10   8  10  10   7  10  10  10  10  10  10
+  10  10  10  10  10  10  10  10  10   8  10  10  10  10   7  10  10  10  10  10
+   6   6   7   7   7   8   8   8   8   9   9  10  10  10  10   7  10  10   4  10
+  10  10  10  10  10  10  10   8  10  10  10  10  10  10  10  10   7  10   4  10
+   4   5   5   5   6   6   6   6   7   7   7   8   8  10  10  10  10  10   4  10
+  10  10  10  10  10   9  10  10  10  10  10  10  10  10  10  10  10  10   3  10
+  10  10  10  10   9  10  10  10  10  10  10  10  10  10  10  10  10  10   3  10
+   2   2   2   3   3   3   3   4   4   4   5   5   5   6   6  10  10  10   3  10
+  10  10   8  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10   2  10
+   2   2   2  10  10  10  10  10   T  10  10  10  10  10  10  10  10  10   2  10
+  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10   2  10
+  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10   1  10
+  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10   1  10
+  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10   1  10
+  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10   0  10
+  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10   0  10
+
+Active Bears:
+
+Active Tourists:
+Tourist at (13,8), 2 turns without seeing a bear.
+Tourist at (4,3), 1 turns without seeing a bear.
+

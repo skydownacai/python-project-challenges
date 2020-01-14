@@ -1,0 +1,208 @@
+Enter the json file name for the simulation => bears_and_berries_2.json
+bears_and_berries_2.json
+
+Starting Configuration
+Field has 144 berries.
+   0   0   0   0   0   1   0   0   1   0   0   0   0   0   1   0   0   0   0   B
+   0   0   0   0   2   0   0   0   0   0   0   0   0   B   T   0   0   0   0   0
+   0   0   0   0   2   0   2   1   T   1   2   0   0   1   0   0   1   1   0   0
+   T   0   0   0   0   0   0   0   1   0   1   0   1   0   0   0   0   0   0   0
+   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   1   0
+   1   1   0   1   0   1   1   2   0   0   0   0   1   2   0   0   0   0   0   0
+   0   0   0   0   1   0   0   0   1   0   0   1   0   0   2   0   0   0   0   0
+   1   0   1   1   0   T   0   0   1   0   2   2   0   1   0   0   0   0   0   0
+   0   0   0   0   0   2   0   2   2   1   0   2   1   2   0   0   0   1   0   1
+   2   0   0   0   1   0   2   0   0   1   1   1   B   T   1   2   1   0   0   0
+   2   0   0   0   0   1   1   0   0   0   1   0   0   0   0   1   1   0   0   0
+   0   2   0   0   0   0   0   2   0   B   0   1   2   0   B   2   1   0   0   0
+   0   0   1   0   0   0   0   0   2   0   1   0   0   1   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   1   T   0   0   0   0   1   0   0   0   2   0
+   0   0   0   0   0   2   0   0   0   0   0   2   0   0   0   0   0   2   0   0
+   0   2   1   1   0   2   1   0   1   0   0   0   0   0   0   0   0   0   0   0
+   1   1   0   0   0   1   0   0   2   0   0   1   0   1   T   0   0   0   0   1
+   1   0   0   0   2   0   0   0   0   0   0   0   1   1   2   1   0   1   0   0
+   0   0   0   0   0   0   0   0   0   0   2   1   0   0   0   0   0   0   0   0
+   1   0   0   1   0   0   1   0   1   0   0   1   0   0   1   0   0   0   0   0
+
+Active Bears:
+Bear at (11,9) moving W
+Bear at (0,19) moving E
+Bear at (9,12) moving SE
+Bear at (11,14) moving NW
+Bear at (1,13) moving SW
+
+Active Tourists:
+Tourist at (16,14), 0 turns without seeing a bear.
+Tourist at (7,5), 0 turns without seeing a bear.
+Tourist at (3,0), 0 turns without seeing a bear.
+Tourist at (1,14), 0 turns without seeing a bear.
+Tourist at (13,9), 0 turns without seeing a bear.
+Tourist at (2,8), 0 turns without seeing a bear.
+Tourist at (9,13), 0 turns without seeing a bear.
+
+Turn: 1
+Bear at (11,-1) moving W - Left the Field
+Bear at (0,20) moving E - Left the Field
+Bear at (17,20) moving SE - Left the Field
+Bear at (-1,2) moving NW - Left the Field
+Bear at (15,-1) moving SW - Left the Field
+Field has 222 berries.
+   0   0   0   0   0   2   0   0   2   0   0   0   0   0   2   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   T   0   0   0   0   0
+   0   0   0   0   3   0   3   2   T   2   3   0   0   2   0   0   2   2   0   0
+   T   0   0   0   0   0   0   0   2   0   2   0   2   0   0   0   0   0   0   0
+   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   2   0   0   2   0
+   2   2   0   2   0   2   2   3   0   0   0   0   2   3   0   0   0   0   0   0
+   0   0   0   0   2   0   0   0   0   0   0   2   0   0   3   0   0   0   0   0
+   2   0   2   2   0   T   0   0   2   0   0   3   0   2   0   0   0   0   0   0
+   0   0   0   0   0   3   0   3   3   2   0   0   2   3   0   0   0   2   0   2
+   3   0   0   0   2   0   3   0   0   2   2   2   0   T   2   3   2   0   0   0
+   3   0   0   0   0   2   2   0   0   0   2   0   0   0   0   2   2   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   2   3   0   0   3   2   0   0   0
+   0   0   0   0   0   0   0   0   3   0   2   0   0   2   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   2   T   0   0   0   0   2   0   0   0   3   0
+   0   0   0   0   0   3   0   0   0   0   0   3   0   0   0   0   0   0   0   0
+   0   3   2   2   0   3   2   0   2   0   0   0   0   0   0   0   0   0   0   0
+   2   2   0   0   0   2   0   0   3   0   0   2   0   2   T   0   0   0   0   0
+   2   0   0   0   3   0   0   0   0   0   0   0   2   2   3   2   0   2   0   0
+   0   0   0   0   0   0   0   0   0   0   3   2   0   0   0   0   0   0   0   0
+   2   0   0   2   0   0   2   0   2   0   0   2   0   0   2   0   0   0   0   0
+
+Active Bears:
+
+Active Tourists:
+Tourist at (16,14), 1 turns without seeing a bear.
+Tourist at (7,5), 1 turns without seeing a bear.
+Tourist at (3,0), 1 turns without seeing a bear.
+Tourist at (1,14), 1 turns without seeing a bear.
+Tourist at (13,9), 1 turns without seeing a bear.
+Tourist at (2,8), 1 turns without seeing a bear.
+Tourist at (9,13), 1 turns without seeing a bear.
+
+
+Turn: 2
+Field has 319 berries.
+   0   0   0   0   0   3   0   0   3   0   0   0   0   0   3   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   T   0   0   0   0   0
+   0   0   0   0   4   0   4   3   T   3   4   0   0   3   0   0   3   3   0   0
+   T   0   0   0   0   0   0   0   3   0   3   0   3   0   0   0   0   0   0   0
+   0   0   0   0   0   0   3   0   0   0   0   0   0   0   0   3   0   0   3   0
+   3   3   0   3   0   3   3   4   0   0   0   0   3   4   0   0   0   0   0   0
+   0   0   0   0   3   0   0   0   0   0   0   3   0   0   4   0   0   0   0   0
+   3   0   3   3   0   T   0   0   3   0   0   4   0   3   0   0   0   0   0   0
+   0   0   0   0   0   4   0   4   4   3   0   0   3   4   0   0   0   3   0   3
+   4   0   0   0   3   0   4   0   0   3   3   3   0   T   3   4   3   0   0   0
+   4   0   0   0   0   3   3   0   0   0   3   0   0   0   0   3   3   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   3   4   0   0   4   3   0   0   0
+   0   0   0   0   0   0   0   0   4   0   3   0   0   3   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   3   T   0   0   0   0   3   0   0   0   4   0
+   0   0   0   0   0   4   0   0   0   0   0   4   0   0   0   0   0   0   0   0
+   0   4   3   3   0   4   3   0   3   0   0   0   0   0   0   0   0   0   0   0
+   3   3   0   0   0   3   0   0   4   0   0   3   0   3   T   0   0   0   0   0
+   3   0   0   0   4   0   0   0   0   0   0   0   3   3   4   3   0   3   0   0
+   0   0   0   0   0   0   0   0   0   0   4   3   0   0   0   0   0   0   0   0
+   3   0   0   3   0   0   3   0   3   0   0   3   0   0   3   0   0   0   0   0
+
+Active Bears:
+
+Active Tourists:
+Tourist at (16,14), 2 turns without seeing a bear.
+Tourist at (7,5), 2 turns without seeing a bear.
+Tourist at (3,0), 2 turns without seeing a bear.
+Tourist at (1,14), 2 turns without seeing a bear.
+Tourist at (13,9), 2 turns without seeing a bear.
+Tourist at (2,8), 2 turns without seeing a bear.
+Tourist at (9,13), 2 turns without seeing a bear.
+
+
+Turn: 3
+Tourist at (16,14), 3 turns without seeing a bear. - Left the Field
+Tourist at (7,5), 3 turns without seeing a bear. - Left the Field
+Tourist at (3,0), 3 turns without seeing a bear. - Left the Field
+Tourist at (1,14), 3 turns without seeing a bear. - Left the Field
+Tourist at (13,9), 3 turns without seeing a bear. - Left the Field
+Tourist at (2,8), 3 turns without seeing a bear. - Left the Field
+Tourist at (9,13), 3 turns without seeing a bear. - Left the Field
+Field has 416 berries.
+   0   0   0   0   0   4   0   0   4   0   0   0   0   0   4   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   5   0   5   4   0   4   5   0   0   4   0   0   4   4   0   0
+   0   0   0   0   0   0   0   0   4   0   4   0   4   0   0   0   0   0   0   0
+   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0   4   0   0   4   0
+   4   4   0   4   0   4   4   5   0   0   0   0   4   5   0   0   0   0   0   0
+   0   0   0   0   4   0   0   0   0   0   0   4   0   0   5   0   0   0   0   0
+   4   0   4   4   0   0   0   0   4   0   0   5   0   4   0   0   0   0   0   0
+   0   0   0   0   0   5   0   5   5   4   0   0   4   5   0   0   0   4   0   4
+   5   0   0   0   4   0   5   0   0   4   4   4   0   0   4   5   4   0   0   0
+   5   0   0   0   0   4   4   0   0   0   4   0   0   0   0   4   4   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   4   5   0   0   5   4   0   0   0
+   0   0   0   0   0   0   0   0   5   0   4   0   0   4   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   4   5   0   0   0   0   4   0   0   0   5   0
+   0   0   0   0   0   5   0   0   0   0   0   5   0   0   0   0   0   0   0   0
+   0   5   4   4   0   5   4   0   4   0   0   0   0   0   0   0   0   0   0   0
+   4   4   0   0   0   4   0   0   5   0   0   4   0   4   0   0   0   0   0   0
+   4   0   0   0   5   0   0   0   0   0   0   0   4   4   5   4   0   4   0   0
+   0   0   0   0   0   0   0   0   0   0   5   4   0   0   0   0   0   0   0   0
+   4   0   0   4   0   0   4   0   4   0   0   4   0   0   4   0   0   0   0   0
+
+Active Bears:
+
+Active Tourists:
+
+
+Turn: 4
+Field has 513 berries.
+   0   0   0   0   0   5   0   0   5   0   0   0   0   0   5   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   6   0   6   5   0   5   6   0   0   5   0   0   5   5   0   0
+   0   0   0   0   0   0   0   0   5   0   5   0   5   0   0   0   0   0   0   0
+   0   0   0   0   0   0   5   0   0   0   0   0   0   0   0   5   0   0   5   0
+   5   5   0   5   0   5   5   6   0   0   0   0   5   6   0   0   0   0   0   0
+   0   0   0   0   5   0   0   0   0   0   0   5   0   0   6   0   0   0   0   0
+   5   0   5   5   0   0   0   0   5   0   0   6   0   5   0   0   0   0   0   0
+   0   0   0   0   0   6   0   6   6   5   0   0   5   6   0   0   0   5   0   5
+   6   0   0   0   5   0   6   0   0   5   5   5   0   0   5   6   5   0   0   0
+   6   0   0   0   0   5   5   0   0   0   5   0   0   0   0   5   5   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   5   6   0   0   6   5   0   0   0
+   0   0   0   0   0   0   0   0   6   0   5   0   0   5   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   5   6   0   0   0   0   5   0   0   0   6   0
+   0   0   0   0   0   6   0   0   0   0   0   6   0   0   0   0   0   0   0   0
+   0   6   5   5   0   6   5   0   5   0   0   0   0   0   0   0   0   0   0   0
+   5   5   0   0   0   5   0   0   6   0   0   5   0   5   0   0   0   0   0   0
+   5   0   0   0   6   0   0   0   0   0   0   0   5   5   6   5   0   5   0   0
+   0   0   0   0   0   0   0   0   0   0   6   5   0   0   0   0   0   0   0   0
+   5   0   0   5   0   0   5   0   5   0   0   5   0   0   5   0   0   0   0   0
+
+Active Bears:
+
+Active Tourists:
+
+
+Turn: 5
+Field has 610 berries.
+   0   0   0   0   0   6   0   0   6   0   0   0   0   0   6   0   0   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0   0   0   7   0   7   6   0   6   7   0   0   6   0   0   6   6   0   0
+   0   0   0   0   0   0   0   0   6   0   6   0   6   0   0   0   0   0   0   0
+   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   6   0   0   6   0
+   6   6   0   6   0   6   6   7   0   0   0   0   6   7   0   0   0   0   0   0
+   0   0   0   0   6   0   0   0   0   0   0   6   0   0   7   0   0   0   0   0
+   6   0   6   6   0   0   0   0   6   0   0   7   0   6   0   0   0   0   0   0
+   0   0   0   0   0   7   0   7   7   6   0   0   6   7   0   0   0   6   0   6
+   7   0   0   0   6   0   7   0   0   6   6   6   0   0   6   7   6   0   0   0
+   7   0   0   0   0   6   6   0   0   0   6   0   0   0   0   6   6   0   0   0
+   0   0   0   0   0   0   0   0   0   0   0   6   7   0   0   7   6   0   0   0
+   0   0   0   0   0   0   0   0   7   0   6   0   0   6   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   6   7   0   0   0   0   6   0   0   0   7   0
+   0   0   0   0   0   7   0   0   0   0   0   7   0   0   0   0   0   0   0   0
+   0   7   6   6   0   7   6   0   6   0   0   0   0   0   0   0   0   0   0   0
+   6   6   0   0   0   6   0   0   7   0   0   6   0   6   0   0   0   0   0   0
+   6   0   0   0   7   0   0   0   0   0   0   0   6   6   7   6   0   6   0   0
+   0   0   0   0   0   0   0   0   0   0   7   6   0   0   0   0   0   0   0   0
+   6   0   0   6   0   0   6   0   6   0   0   6   0   0   6   0   0   0   0   0
+
+Active Bears:
+
+Active Tourists:
+
+

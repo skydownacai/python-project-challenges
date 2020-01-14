@@ -1,0 +1,41 @@
+Enter the json file name for the simulation => bears_and_berries_2.json
+bears_and_berries_2.json
+
+Field has 144 berries.
+   0   0   0   0   0   1   0   0   1   0   0   0   0   0   1   0   0   0   0   B
+   0   0   0   0   2   0   0   0   0   0   0   0   0   B   T   0   0   0   0   0
+   0   0   0   0   2   0   2   1   T   1   2   0   0   1   0   0   1   1   0   0
+   T   0   0   0   0   0   0   0   1   0   1   0   1   0   0   0   0   0   0   0
+   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   1   0
+   1   1   0   1   0   1   1   2   0   0   0   0   1   2   0   0   0   0   0   0
+   0   0   0   0   1   0   0   0   1   0   0   1   0   0   2   0   0   0   0   0
+   1   0   1   1   0   T   0   0   1   0   2   2   0   1   0   0   0   0   0   0
+   0   0   0   0   0   2   0   2   2   1   0   2   1   2   0   0   0   1   0   1
+   2   0   0   0   1   0   2   0   0   1   1   1   B   T   1   2   1   0   0   0
+   2   0   0   0   0   1   1   0   0   0   1   0   0   0   0   1   1   0   0   0
+   0   2   0   0   0   0   0   2   0   B   0   1   2   0   B   2   1   0   0   0
+   0   0   1   0   0   0   0   0   2   0   1   0   0   1   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0   1   T   0   0   0   0   1   0   0   0   2   0
+   0   0   0   0   0   2   0   0   0   0   0   2   0   0   0   0   0   2   0   0
+   0   2   1   1   0   2   1   0   1   0   0   0   0   0   0   0   0   0   0   0
+   1   1   0   0   0   1   0   0   2   0   0   1   0   1   T   0   0   0   0   1
+   1   0   0   0   2   0   0   0   0   0   0   0   1   1   2   1   0   1   0   0
+   0   0   0   0   0   0   0   0   0   0   2   1   0   0   0   0   0   0   0   0
+   1   0   0   1   0   0   1   0   1   0   0   1   0   0   1   0   0   0   0   0
+
+Active Bears:
+Bear at (11,9) moving W
+Bear at (0,19) moving E
+Bear at (9,12) moving SE
+Bear at (11,14) moving NW
+Bear at (1,13) moving SW
+
+Active Tourists:
+Tourist at (16,14), 0 turns without seeing a bear.
+Tourist at (7,5), 0 turns without seeing a bear.
+Tourist at (3,0), 0 turns without seeing a bear.
+Tourist at (1,14), 0 turns without seeing a bear.
+Tourist at (13,9), 0 turns without seeing a bear.
+Tourist at (2,8), 0 turns without seeing a bear.
+Tourist at (9,13), 0 turns without seeing a bear.
+
